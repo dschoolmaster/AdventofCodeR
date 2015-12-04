@@ -1,6 +1,6 @@
 ####Day 1####
 #read the lines from
-z<-readLines("Path/To/Input/File/paren.txt")
+z<-readLines("Path/To/InputDay1.txt")
 #cut out all open parens
 opn<-strsplit(z,'\\(')
 #cut out all close parens
