@@ -1,5 +1,5 @@
 ####Day5
-nicelist<-readLines("~/Documents/AdventOfCode/InputDay5.txt")
+nicelist<-readLines("~/Path/To/InputDay5.txt")
 nicelist<-readLines("J:/InputDay5.txt")
 
 #Part 1
